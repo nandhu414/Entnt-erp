@@ -11,7 +11,7 @@ import './Dashboard.css'
 function Dashboard() {
   return (
     <div className="bannerBox">
-    <img src="public/Assets/maxresdefault.jpg" alt="banner"/>
+    <img src="public/Assets/maxresdefault.jpg" alt="Assets/maxresdefault.jpg"/>
   </div> 
    
   );
