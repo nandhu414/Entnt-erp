@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Entnt-erp/static/css/main.5b78a606.css",
+    "main.js": "/Entnt-erp/static/js/main.05291c73.js",
+    "index.html": "/Entnt-erp/index.html",
+    "main.5b78a606.css.map": "/Entnt-erp/static/css/main.5b78a606.css.map",
+    "main.05291c73.js.map": "/Entnt-erp/static/js/main.05291c73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b78a606.css",
+    "static/js/main.05291c73.js"
+  ]
+}
