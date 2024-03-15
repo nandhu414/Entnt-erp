@@ -1,0 +1,35 @@
+.Header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #6cb0c7;
+    padding: 16px;
+  }
+
+  .Header-logo {
+    color: white;
+    font-size: 24px;
+    text-decoration: none;
+  }
+  
+  .Header nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  .Header nav li {
+    padding: 0 16px;
+  }
+  
+  .Header nav a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .Header nav a:hover {
+    color: #ddd;
+  }
+  
+  

@@ -1,0 +1,33 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing:border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+body{
+  border: 5px solid black;
+}
+
+.headerSection {
+  display: flex;
+  justify-content: space-between;
+  background-color: aqua;
+
+}
+
+.center ul li{
+  list-style: none;
+  display: inline-flex;
+  margin: 10px 40px;
+  justify-content: space-between;
+}
+
+.center{
+  flex: 2px;
+  justify-content: space-between;
+}
+
+.bannerBox img {
+  width: 100%;
+}
